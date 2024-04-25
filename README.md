@@ -3,7 +3,7 @@
 ## Princípios de Desenvolvimento de Software Colaborativo
 ### Bootcamps DIO: Educação Gratuita e Empregalidade Juntas!
 ### Versionamento do Código com Git e GitHub 
-### Deasfios de Projetos: Crie Um Portfólio Vencedor
+### Desafios de Projetos: Crie Um Portfólio Vencedor
 ### Contribuindo em um Projeto Open Source no GitHub
 ### Aula Inaugural - Santander Bootcamp 2024
 
