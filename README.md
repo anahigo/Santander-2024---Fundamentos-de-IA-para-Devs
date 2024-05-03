@@ -18,7 +18,7 @@
 ### Como utilizar ChatGPT para Refatorar Códigos
 ### Como Utilizar o ChatGPT como Copiloto de Programação
 ### Desafios de Código: Aperfeiçoe Sua Lógica e Pensamento Computacional
-### Desafios de Código - Simulando Deasfios com IAs Generativas
+### Desafios de Código - Simulando Desafios com IAs Generativas
 ### Criando Artigos Técnicos com ChatGPT e Lexica.art
 ### Criando um Podcast com IAs Generativas
 

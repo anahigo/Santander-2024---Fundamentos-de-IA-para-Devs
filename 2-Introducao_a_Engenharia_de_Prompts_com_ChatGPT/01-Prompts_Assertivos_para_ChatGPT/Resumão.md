@@ -47,8 +47,8 @@ Hoje vamos resolver o [Problema]
 
 #### Ferramentas para estudar 
 - me resuma esse conteúdo em formato de post carrosel em até 10 slides [link] 
-- me resuma o livro '[título do livro]' em bullets points em um tom de voz simplicado
-- me resuma o livro '[título do livro]' em bullets points em um tom de voz simplicado, resumindo os principais capítulo
+- me resuma o livro '[título do livro]' em bullets points em um tom de voz simplificado
+- me resuma o livro '[título do livro]' em bullets points em um tom de voz simplificado, resumindo os principais capítulo
 
 #### Cronograma de estudo 
 - crie um cronograma de estudo sobre angular dividido em módulos e tópicos, aonde eu possa aprender Angular em 21 dias com apenas 3 horas de estudo por dia
