@@ -41,5 +41,3 @@
 ### Se Preparando Para Uma Entrevista
 ### Avalie este Bootcamp
 
-
-## Soft Skills na Era Ágil: Conectando Pessoas e Oportunidades
