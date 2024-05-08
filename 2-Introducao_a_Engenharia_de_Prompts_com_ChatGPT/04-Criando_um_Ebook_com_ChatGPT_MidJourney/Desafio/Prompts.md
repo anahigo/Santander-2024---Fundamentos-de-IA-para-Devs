@@ -40,8 +40,5 @@ Compreender essas três áreas de conhecimento é o primeiro passo para se torna
 ## Prompts Midjourney
 
 ### Capa
-Ex:
-- /imagine [prompt] a jedi in meditation pose, with your blue lightsaber floating, pixel art style
-U - upscale (imagem maior)
-V - variation (variação)
-a numeração 1, 2, 3, 4 - seria as imagens
+- Man walking towards a mountain on a sunny day
+

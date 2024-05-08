@@ -82,5 +82,7 @@ me gere outros tipos de seletores css
 
 
 PDF Produzindo pelo Instrutor
-Linkedin[https://www.linkedin.com/feed/update/urn:li:activity:7079530039481970688/]
-Github[https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook]
+
+[Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:7079530039481970688/)
+
+[Github](https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook)
