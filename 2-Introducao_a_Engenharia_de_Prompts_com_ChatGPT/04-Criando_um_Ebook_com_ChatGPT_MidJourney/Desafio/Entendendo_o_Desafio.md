@@ -10,7 +10,7 @@ Neste repositório, insira todos os links e arquivos necessários para seu proje
 - Crie um repositório no github com os prompts que você utilizou na criação do projeto
 - Salve o ebook dentro do seu repositório
 - Coloque o link do seu artigo no readme do seu github
-- Envie para gente o Slink do seu repositório
+- Envie para gente o link do seu repositório
  
 
 ## Repositório Git
