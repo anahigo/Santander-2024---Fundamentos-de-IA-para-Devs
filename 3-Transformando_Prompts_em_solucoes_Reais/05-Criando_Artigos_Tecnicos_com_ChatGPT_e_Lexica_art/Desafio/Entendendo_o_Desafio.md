@@ -1,4 +1,11 @@
-# Entendendo o Desafio
+# Criando Artigos Técnicos com ChatGPT e Lexica.art
+
+O conteúdo textual foi gerado automaticamente pela IA e posteriormente revisado e diagramado por Ana Higo.
+Este recurso faz parte da avaliação do curso "Santander 2024 - Fundamentos de IA para Devs", especificamente do módulo Transformando Prompts em Soluções Reais.
+
+- IA´s Utilizadas: ChatGPT e Lexica.art
+
+## Entendendo o Desafio
 
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
  

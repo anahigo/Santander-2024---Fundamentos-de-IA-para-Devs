@@ -106,7 +106,4 @@ https://elevenlabs.io/
 ### Editando seu podcast de maneira fácil
 https://capcut.com/pt-br
 
-### Como entregar meu projeto e dicas de onde publicar
-Ex:
-- 
 

@@ -1,3 +1,10 @@
+# Criando um Podcast com IAs Generativas
+
+O conteúdo textual foi gerado automaticamente pela IA e revisado por Ana Higo.
+Este recurso faz parte da avaliação do curso "Santander 2024 - Fundamentos de IA para Devs", especificamente do módulo Transformando Prompts em Soluções Reais.
+
+- IA´s e Ferramentas utilizadas: ChatGPT, Midjourney, Eleven Labs e CapCup
+
 # Entendendo o Desafio
 
 Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎

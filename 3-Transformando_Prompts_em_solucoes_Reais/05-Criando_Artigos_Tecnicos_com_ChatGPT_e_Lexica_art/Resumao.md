@@ -31,11 +31,11 @@ Blocos:
 - Coloque 3 hashtags que façam sentido
 
 Ex:
-- Comporte-se como escritor de artigos tech front-ende escreva o Artigo atendendo aas regras abaixo
+- Comporte-se como escritor de artigos tech front-end e escreva o Artigo atendendo as regras abaixo
 
 {REGRAS}
 > no máximo 5 linhas por parágrafos.
-> me expliquede maneira infirmal, como se eu fosse uma riança de 10 anos
+> me explique de maneira informal, como se eu fosse uma criança de 10 anos
 > Os blocos que serão criados estão abaixo:
 - O que são diretivas no Angular
 - O que são diretivas estruturais
